@@ -1,16 +1,22 @@
-﻿.venv/
-.ipynb_checkpoints/
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
 __pycache__/
-*.py[cod]
+*.pyc
 
-# Bases de dados locais
-data/
+# Dados (não versionar)
+dados/
 *.csv
-*.7z
-*.zip
+*.parquet
+*.xlsx
 
-# Arquivos temporarios
-*.tmp
-*.bak
-.DS_Store
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
 Thumbs.db
+.DS_Store
