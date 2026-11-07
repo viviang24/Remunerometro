@@ -63,17 +63,14 @@ Aplicação de técnicas de aprendizado de máquina supervisionado e análise da
 
 ## 6. Estrutura do repositório
 
-``
+```text
 remunerometro/
-│
 ├── notebook/
 │   ├── REM_20240045345_Vivian.ipynb
 │   └── REM_20240045345_Vivian.html
-│
 ├── scripts/
 │   ├── preparar_base_pb.py
 │   └── separar_dados_Vivian.py
-│
 ├── requirements.txt
 ├── .gitignore
 └── README.md
