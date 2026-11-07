@@ -1,0 +1,16 @@
+﻿.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Bases de dados locais
+data/
+*.csv
+*.7z
+*.zip
+
+# Arquivos temporarios
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
